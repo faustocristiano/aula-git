@@ -14,5 +14,12 @@
 3. Mesclando ramos
 
 ## Codigo na linguagem C
+```c
+int main (void){
+    printf("ola Fausto")
+    return 0;
+}
+```
+
 
 
