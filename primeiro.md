@@ -11,5 +11,12 @@
 
 
 ## Codigo na linguagem C
+```c
+int main (void){
+    printf("ola mundo")
+    return 0;
+}
+```
+
 
 
